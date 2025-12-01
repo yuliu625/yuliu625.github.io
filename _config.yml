@@ -203,8 +203,12 @@ exclude:
   - _includes/news.liquid
   # - _pages/about.md
   # repositories page
-  - _pages/repositories.md
-  - _includes/repository/
+  # - _pages/repositories.md
+  # - _includes/repository/
+  # people
+  - _pages/profiles.md
+  # projects
+  - _pages/projects.md
   # cv
   - assets/json/resume.json
 keep_files:
