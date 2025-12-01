@@ -32,7 +32,7 @@ I am a Master's candidate in the School of Computer Science and Technology at Fu
 
 My primary research focus is on Artificial Intelligence (AI), with a specialized interest in Decision Intelligence. Currently, my research is dedicated to exploring and developing AI Agents and Large Language Models (LLMs), aiming to build systems capable of complex reasoning and autonomous decision-making.
 
-Beyond research, I am a Full-Stack Developer with a solid foundation in software architecture, allowing me to transform research concepts into robust, scalable applications.
+Beyond research, I am a full-stack developer with a solid foundation in software architecture, allowing me to transform research concepts into robust, scalable applications.
 
 For questions, collaborations, or general inquiries, please feel free to reach out.
 
