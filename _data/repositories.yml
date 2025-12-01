@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yuliu625
+  - yul1024
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - yuliu625/World-of-Six
+  - yuliu625/CHFEN
+  - yuliu625/MEM-V-Agent
+  - yuliu625/Yu-Flash-Boilerplate
+  - yuliu625/Yu-Agent-Development-Toolkit
+  - yuliu625/Python-Programming-Practice
+  - yuliu625/Yu-Latex-Academic-Template
+  - yuliu625/Yu-Python-Environment-Configs 
