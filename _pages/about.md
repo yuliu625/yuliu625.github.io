@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.fudan.edu.cn/'>Fudan University</a>. M.S. in Artificial Intelligence. 
 
 profile:
-  align: left
+  align: right
   image: miaomiao.png
   image_circular: false # crops the image to make it circular
   # more_info: >
