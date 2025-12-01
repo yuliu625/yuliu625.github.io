@@ -31,3 +31,14 @@ I am a Master's candidate in the School of Computer Science and Technology at Fu
 
 My primary research focus is on Artificial Intelligence (AI), with a specialized interest in Decision Intelligence. Currently, my research is dedicated to exploring and developing AI Agents and Large Language Models (LLMs), aiming to build systems capable of complex reasoning and autonomous decision-making.
 
+Beyond research, I am a Full-Stack Developer with a solid foundation in software architecture, allowing me to transform research concepts into robust, scalable applications.
+
+For questions, collaborations, or general inquiries, please feel free to reach out.
+
+- **Homepage:** [Yu Liu](http://yuliu625.github.io/)
+- **Email:** [yuliu@fudan](mailto:yuliu23@m.fudan.edu.cn)
+- **LinkedIn:** [@yuliu](https://www.linkedin.com/in/yu-liu-52abb9392/)
+- **GitHub(Academic):** [@yuliu625](https://github.com/yuliu625)
+- **GitHub(Exploration):** [@yul1024](https://github.com/yul1024)
+- **Blog(Chinese):** [@yul1024](https://blog.csdn.net/yul1024)
+
