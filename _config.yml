@@ -209,6 +209,8 @@ exclude:
   - _pages/profiles.md
   # projects
   - _pages/projects.md
+  # teaching
+  - _pages/teaching.md
   # cv
   - assets/json/resume.json
 keep_files:
