@@ -38,7 +38,7 @@
       "location": "Shanghai, China",
       "url": "https://www.sufe.edu.cn/",
       "area": "Accounting",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Management",
       "startDate": "2016-09-01",
       "endDate": "2020-07-01",
       "courses": ["Thesis title: Performance Analysis of E-commerce Platform Subsidy Strategies: A Case Study of Pinduoduo's \"10 Billion Subsidy\" Program."]
@@ -48,10 +48,10 @@
       "location": "Shanghai, China",
       "url": "https://www.sufe.edu.cn/",
       "area": "Computer Science and Technology",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Engineering",
       "startDate": "2017-09-01",
       "endDate": "2020-07-01",
-      "courses": ["Thesis title: *Development of an Intelligent Level-Graded Sudoku Generation and Assistant Solving Software.*"]
+      "courses": ["Thesis title: Development of an Intelligent Level-Graded Sudoku Generation and Assistant Solving Software."]
     }
   ],
   "certificates": [
