@@ -30,7 +30,8 @@
       "area": "Artificial Intelligence",
       "studyType": "Master",
       "startDate": "2023-09-01",
-      "endDate": "Present"
+      "endDate": "Present",
+      "courses": ["Thesis title: Risk-Oriented Multi-Agent System: Achieving Financial Auditing and Strategic Risk Assessment through Intelligent Collaboration."]
     },
         {
       "institution": "Shanghai University of Finance and Economics, Shanghai, China",
@@ -39,7 +40,8 @@
       "area": "Accounting",
       "studyType": "Bachelor",
       "startDate": "2016-09-01",
-      "endDate": "2020-07-01"
+      "endDate": "2020-07-01",
+      "courses": ["Thesis title: Performance Analysis of E-commerce Platform Subsidy Strategies: A Case Study of Pinduoduo's \"10 Billion Subsidy\" Program."]
     },
         {
       "institution": "Shanghai University of Finance and Economics, Shanghai, China",
@@ -48,7 +50,8 @@
       "area": "Computer Science and Technology",
       "studyType": "Bachelor",
       "startDate": "2017-09-01",
-      "endDate": "2020-07-01"
+      "endDate": "2020-07-01",
+      "courses": ["Thesis title: *Development of an Intelligent Level-Graded Sudoku Generation and Assistant Solving Software.*"]
     }
   ],
   "certificates": [
